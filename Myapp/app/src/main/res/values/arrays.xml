@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qian">
+        <item>乾</item>
+        <item>兑</item>
+        <item>坎</item>
+        <item>巽</item>
+        <item>震</item>
+        <item>艮</item>
+        <item>离</item>
+        <item>坤</item>
+    </string-array>
+</resources>
